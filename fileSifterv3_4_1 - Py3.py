@@ -1,7 +1,6 @@
-from __future__ import print_function
+
 #Import Modules
-from future import standard_library
-standard_library.install_aliases()
+
 from builtins import input
 from builtins import str
 from builtins import object
