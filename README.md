@@ -1,5 +1,5 @@
 # FileSifter
-This is a forensic utility-based script, written and intended for Python 2.7 environments.   
+This is a forensic utility-based script, written and intended for Python 3 environments.   
 The script, fileSifter.py is a single self-contained tool that operates exclusively 
 using Python Standard Library modules.  This tool is meant to offer a means of efficiently
 triaging the contents of a running computer, it's hard drive, or any other storage device 
