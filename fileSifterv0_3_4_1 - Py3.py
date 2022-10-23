@@ -125,7 +125,7 @@ Usage:
 
 # Define pseudo constants
 SCRIPT_NAME = 'fileSifter.py'
-SCRIPT_VERSION = '3.4.1'
+SCRIPT_VERSION = '0.3.4.1'
 
 #Create counter variable to track function calls.
 counter = 0
