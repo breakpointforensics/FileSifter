@@ -22,7 +22,7 @@ from tkinter.filedialog import askopenfilename    #Import just askopenfilename f
 
 
 #fileSifter.py
-#Version 3.4.1
+#Version 0.3.4.1
 #7/21/2022
 #Author: David Haddad
 
